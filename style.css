@@ -1,1 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
 
+#resume {
+    width: 20cm;
+    height: 18cm;
+    padding: 80px;
+    padding-bottom: 180px;
+    border-radius: 10px;
+}
