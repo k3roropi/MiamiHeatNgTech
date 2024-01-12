@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const resume = document.getElementById("resume");
     const colorButton = document.getElementById("colorButton");
-    let index = 0 
+    let index = 1 
 
     const colors = ["#2e2e2e", "#3498db"]
 
