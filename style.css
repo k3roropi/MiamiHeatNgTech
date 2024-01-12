@@ -81,10 +81,12 @@ ul {
 li {
     margin-bottom: 20px;
     color: #ffffff;
+    text-align: justify;
 }
 
 button {
     margin: 80px ;
+    margin-left: 320px ;
     padding: 10px;
     background-color: #3498db;
     color: #fff;
@@ -95,5 +97,6 @@ button {
 }
 
 button:hover {
-   background-color: #165f90; 
+   background-color: #0f4569; 
+   box-shadow: 0 0 8px 8px #478cb1;
 }    
